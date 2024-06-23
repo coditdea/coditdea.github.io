@@ -118,7 +118,7 @@ header {
 /* Diseño de fondo*/
 #iconos{
     padding: 0 50px;
-    background-image: url(images/fondo1.jpg);
+    background-image: url(fondo1.jpg);
     height: 45vh;
     background-size: cover;
     background-position: center;
